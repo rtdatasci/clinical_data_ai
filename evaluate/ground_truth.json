@@ -1,0 +1,32 @@
+{
+  "P001": {
+    "conditions": ["type 2 diabetes", "hypertension", "left ventricular hypertrophy", "chronic kidney disease"],
+    "medications": ["metformin", "lisinopril"],
+    "procedures": ["echocardiogram"],
+    "body_sites": ["heart", "kidney"]
+  },
+  "P002": {
+    "conditions": ["rheumatoid arthritis", "joint pain", "morning stiffness", "synovitis", "joint erosion"],
+    "medications": ["methotrexate", "prednisone"],
+    "procedures": ["x-ray", "physical therapy"],
+    "body_sites": ["hands", "wrists", "metacarpophalangeal joints"]
+  },
+  "P003": {
+    "conditions": ["chest pain", "shortness of breath", "stenosis"],
+    "medications": ["aspirin", "clopidogrel", "atorvastatin"],
+    "procedures": ["coronary angiography", "percutaneous coronary intervention", "stent placement"],
+    "body_sites": ["chest", "left anterior descending artery"]
+  },
+  "P004": {
+    "conditions": ["asthma"],
+    "medications": ["albuterol", "fluticasone-salmeterol"],
+    "procedures": ["pulmonary function tests", "spirometry"],
+    "body_sites": ["lung"]
+  },
+  "P005": {
+    "conditions": ["osteoarthritis"],
+    "medications": ["acetaminophen", "oxycodone"],
+    "procedures": ["total knee arthroplasty", "physical therapy", "wound inspection"],
+    "body_sites": ["knee"]
+  }
+}

@@ -1,0 +1,4 @@
+smolagents[litellm]
+huggingface_hub
+requests
+python-dotenv

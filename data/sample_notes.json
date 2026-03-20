@@ -1,0 +1,27 @@
+[
+  {
+    "patient_id": "P001",
+    "note_type": "discharge_summary",
+    "text": "Patient is a 58-year-old male admitted for management of type 2 diabetes and hypertension. Current medications include metformin 1000mg twice daily and lisinopril 20mg daily. An echocardiogram was performed showing mild left ventricular hypertrophy. Renal function labs were obtained given concern for chronic kidney disease. Patient was counseled on dietary modifications and discharged in stable condition."
+  },
+  {
+    "patient_id": "P002",
+    "note_type": "progress_note",
+    "text": "Follow-up visit for 45-year-old female with rheumatoid arthritis affecting bilateral hands and wrists. She reports persistent joint pain and morning stiffness lasting over one hour. Currently taking methotrexate 15mg weekly and prednisone 5mg daily. Physical exam reveals synovitis in the metacarpophalangeal joints. X-ray of hands ordered to assess for joint erosion. Referral to physical therapy recommended."
+  },
+  {
+    "patient_id": "P003",
+    "note_type": "discharge_summary",
+    "text": "72-year-old female presented with acute chest pain and shortness of breath. Troponin levels were elevated. Coronary angiography revealed significant stenosis of the left anterior descending artery. Patient underwent percutaneous coronary intervention with stent placement. Started on aspirin 81mg daily, clopidogrel 75mg daily, and atorvastatin 80mg daily. Discharged with follow-up cardiology appointment in two weeks."
+  },
+  {
+    "patient_id": "P004",
+    "note_type": "progress_note",
+    "text": "32-year-old male presenting with worsening asthma symptoms. Reports increased use of albuterol rescue inhaler over the past month. Lung examination reveals bilateral expiratory wheezing. Pulmonary function tests show reduced FEV1 at 68% predicted. Started on fluticasone-salmeterol inhaler twice daily. Spirometry to be repeated in 6 weeks. Advised to avoid known triggers and continue allergen avoidance measures."
+  },
+  {
+    "patient_id": "P005",
+    "note_type": "discharge_summary",
+    "text": "65-year-old male admitted for elective right total knee arthroplasty due to severe osteoarthritis. Surgery performed without complications under spinal anesthesia. Post-operative course included physical therapy with range of motion exercises. Pain managed with acetaminophen and oxycodone as needed. Wound inspection showed clean surgical site with no signs of infection. Patient discharged on post-operative day 3 with home physical therapy orders and follow-up in the orthopedic clinic."
+  }
+]
